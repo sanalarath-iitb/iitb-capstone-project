@@ -1,0 +1,31 @@
+*Announcement: Machine Learning for Finance*
+
+Dear Learners,
+
+Please read the following instructions carefully regarding the submission of the Capstone Project for the ePGDip@ML in Finance program.
+
+Submission Guidelines
+
+1. Only one member from each group is required to submit the project through the Google Form on behalf of the entire team.
+2. Please create separate folders for each module completed and compress all submission folders into a single .zip file before uploading.
+3. Ensure that the .zip file contains all relevant supporting files, including:
+* .ipynb notebooks / Python code files
+* Any augmented or additional datasets used
+* Supporting code and related resources
+These files will be considered during the evaluation process.
+4. The Project Report and PPT/Presentation must be uploaded separately and should not be included inside the .zip folder.
+5. The Project Report should include the following:
+* Problem statement/objective
+* Dataset description
+* Methodology/approach used
+* Data preprocessing steps
+* Model implementation/details
+* Results and observations
+* Conclusion/future scope
+6. Kindly ensure that you select all the modules you have completed in the checkbox section of the submission form.
+
+Files to Upload
+
+* PPT/Presentation
+* Project Report
+* ZIP folder containing code files, notebooks, datasets, and supporting files
